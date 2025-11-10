@@ -3,7 +3,7 @@
 Future ingénieure en Génie Logiciel à l’ENSIAS, actuellement en 3ᵉ année.  
 Intéressée par le développement web (Java, Spring Boot, React.js …), le DevOps (CI/CD, orchestration, infrastructures automatisées, systèmes de monitoring), les architectures cloud et la mise en place de systèmes automatisés.
 
----
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=AsmaHmida99" alt="GitHub Trophies" />
@@ -12,10 +12,10 @@ Intéressée par le développement web (Java, Spring Boot, React.js …), le Dev
 
 
 
----
+
 # 🛠️ Tech Stack
 
-<!-- Web & Frameworks / Langages -->
+
 
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?style=flat&logo=springboot&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
@@ -50,7 +50,7 @@ Intéressée par le développement web (Java, Spring Boot, React.js …), le Dev
 ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-00529C?style=flat&logo=oracle&logoColor=white)
 
 
----
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AsmaHmida99&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AsmaHmida99&theme=default&hide_border=false)<br/>
