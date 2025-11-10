@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bonjour, je suis Asma H'mida </h1>
+<h1 align="center">👋 Bonjour, je suis ASMA H'MIDA </h1>
 
 Future ingénieure en Génie Logiciel à l’ENSIAS, actuellement en 3ᵉ année.  
 Intéressée par le développement web (Java, Spring Boot, React.js …), le DevOps (CI/CD, orchestration, infrastructures automatisées, systèmes de monitoring), les architectures cloud et la mise en place de systèmes automatisés.
