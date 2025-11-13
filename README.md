@@ -36,6 +36,8 @@ Intéressée par le développement web (Java, Spring Boot, React.js …), le Dev
 ![BPMN](https://img.shields.io/badge/BPMN-FF6F61?style=flat) 
 ![jBPM](https://img.shields.io/badge/jBPM-0078D7?style=flat) 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat?logo=rabbitmq&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%23000f0f.svg?style=flat&logo=mysql&logoColor=white) 
@@ -47,6 +49,10 @@ Intéressée par le développement web (Java, Spring Boot, React.js …), le Dev
 ![REST API](https://img.shields.io/badge/REST-008000.svg?style=flat&logo=rest) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-00529C?style=flat&logo=oracle&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 
 
