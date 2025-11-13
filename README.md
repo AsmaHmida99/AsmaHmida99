@@ -6,7 +6,7 @@ Intéressée par le développement web (Java, Spring Boot, React.js …), le Dev
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[https://github-profile-trophy.vercel.app/?username=AsmaHmida99](https://github-profile-trophy.vercel.app/?username=AsmaHmida99&no-bg=true)" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AsmaHmida99&no-bg=true" alt="GitHub Trophies" />
   </a>
 </p>
 
