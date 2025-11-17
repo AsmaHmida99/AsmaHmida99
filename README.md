@@ -4,7 +4,7 @@ Future ingénieure en Génie Logiciel à l’ENSIAS, actuellement en 3ᵉ année
 Intéressée par le développement web (Java, Spring Boot, React.js …), le DevOps (CI/CD, orchestration, infrastructures automatisées, systèmes de monitoring), les architectures cloud et la mise en place de systèmes automatisés.
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsmaHmida99&theme=flat&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=AsmaHmida99&theme=flat&no-frame=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 # 🛠️ Tech Stack
