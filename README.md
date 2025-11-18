@@ -52,12 +52,13 @@ Intéressée par le développement web (Java, Spring Boot, React.js …), le Dev
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AsmaHmida99&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AsmaHmida99&theme=default&hide_border=false)
-
 <p >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsmaHmida99&theme=radical" alt="Profile Summary" />
 </p>
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AsmaHmida99&theme=default&hide_border=false)
+
+
 # 📫 Contact
 
 - **Email**: [asmahmida039@gmail.com](mailto:asmahmida039@gmail.com)  
